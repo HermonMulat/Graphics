@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\courses\vi\graphics\triangle\triangle\main.cpp(165): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\courses\vi\graphics\triangle\triangle\main.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\triangle\triangle\main.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\triangle\triangle\main.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\triangle\triangle\main.cpp(224): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\triangle\triangle\main.cpp(462): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\courses\vi\graphics\triangle\triangle\main.cpp(463): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Triangle.vcxproj -> F:\Courses\VI\Graphics\Triangle\Debug\Triangle.exe
+  Triangle.vcxproj -> F:\Courses\VI\Graphics\Triangle\Debug\Triangle.pdb (Partial PDB)
