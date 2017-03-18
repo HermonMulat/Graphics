@@ -3,5 +3,5 @@ Extending the simple triangle rendring.
 Changes:
   -> Better file organization
   -> Multiple objects
-  -> Applying Transformations
+  -> Applying various transformations
   -> multiple shaders
