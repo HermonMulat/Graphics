@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ObjectRendering.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ShaderManager.cpp
+  main.cpp
+f:\courses\vi\graphics\animatedtextures\objectrendering\maths.h(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(65): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(67): warning C4305: 'argument': truncation from 'double' to 'const float'
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(68): warning C4305: 'argument': truncation from 'double' to 'const float'
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(76): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(95): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\courses\vi\graphics\animatedtextures\objectrendering\texturedquads.h(111): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\courses\vi\graphics\animatedtextures\objectrendering\scene.h(44): warning C4018: '<': signed/unsigned mismatch
+f:\courses\vi\graphics\animatedtextures\objectrendering\scene.h(47): warning C4018: '<': signed/unsigned mismatch
+f:\courses\vi\graphics\animatedtextures\objectrendering\scene.h(54): warning C4018: '<': signed/unsigned mismatch
+f:\courses\vi\graphics\animatedtextures\objectrendering\scene.h(60): warning C4018: '<': signed/unsigned mismatch
+f:\courses\vi\graphics\animatedtextures\objectrendering\main.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  stb_image.c
+  ObjectRendering.vcxproj -> F:\Courses\VI\Graphics\AnimatedTextures\Debug\AnimatedTextures.exe
+  ObjectRendering.vcxproj -> F:\Courses\VI\Graphics\AnimatedTextures\Debug\AnimatedTextures.pdb (Partial PDB)
