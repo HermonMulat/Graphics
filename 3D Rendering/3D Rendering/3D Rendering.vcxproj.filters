@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{642ae505-c78b-4512-a377-5968524148ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{74455c2e-c9de-4262-85c1-6de9e17db46a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{41550a22-b86e-4123-ae28-9abbb0c08534}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{5b3feff5-1f47-4c6b-b28f-4dbde1c9eaaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{07a6d70a-fb72-4d5e-8ae9-4797da340460}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="BasicFrag.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="BasicVert.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="MaterialLightVert.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="MaterialLightFrag.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="InfiniteVert.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="InfiniteFrag.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="ShadowVert.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="ShadowFrag.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="EnvMapVert.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="EnvMapFrag.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="EnvironFrag.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="EnvironVert.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.c">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Object.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Maths.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshInstance.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="TexturedQuad.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="FullScreenQuad.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
